@@ -1,0 +1,40 @@
+.body {
+margin: 30px 20px 30px 20px;
+text-shadow: 2px 3px 3px rgba(167, 41, 41, 0.3);
+}
+
+h1.h1 {
+    margin: 30px 20px 30px 20px;
+    text-shadow: 2px 3px 3px rgba(167, 41, 41, 0.3);
+}
+
+legend {
+    margin: 30px 20px 30px 20px;
+    text-shadow: 2px 3px 3px rgba(167, 41, 41, 0.3);
+}
+
+h1.h1 {
+    margin: 30px 20px 30px 20px;
+    text-shadow: 2px 3px 3px rgba(193, 59, 59, 0.3);
+}
+
+.form-group {
+    margin: 30px 20px 30px 20px;
+}
+
+fieldset {
+    position: absolute;
+    top: 45%; 
+    left: 35%;
+    outline: 3px solid #000; /* Чёрная рамка */
+    border-radius: 10px;
+    margin: 30px 20px 30px 20px;
+}
+
+.form-check {
+    margin: 30px 20px 30px 20px;
+}
+
+.btn {
+    margin: 5px 10px 25px 25px;
+}
